@@ -4,7 +4,7 @@ date = "2019-10-14T10:01:00+00:00"
 excerpt = "This is just an except... "
 layout = "post"
 subtitle = "The mobile isn't bad either"
-thumb_img_path = ""
+thumb_img_path = "/images/IMG-20191013-WA0000.jpg"
 title = "This is my post"
 
 +++
