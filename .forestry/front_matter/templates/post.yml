@@ -37,6 +37,7 @@ fields:
   config:
     required: true
 pages:
+- content/posts/this-is-my-post.md
 - content/posts/tellus.md
 - content/posts/sed.md
 - content/posts/magna.md
